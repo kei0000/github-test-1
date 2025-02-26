@@ -10,7 +10,7 @@ class EmployeesController < ApplicationController
   # GET /employees/1
   # GET /employees/1.json
   def show
-
+    # do nothing
   end
 
   # GET /employees/new
@@ -20,7 +20,7 @@ class EmployeesController < ApplicationController
 
   # GET /employees/1/edit
   def edit
-
+    # do nothing
   end
 
   # POST /employees
